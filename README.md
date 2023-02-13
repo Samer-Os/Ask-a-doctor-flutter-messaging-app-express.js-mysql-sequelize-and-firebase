@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=Ik5Llpn8Mok&t=246s
 
 # Screenshots
 
-![screenshots\client_login.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_login.jpeg)
+<div style="text-align:center"><img src="https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_login.jpeg" /></div>
 
 ![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_signup.jpeg)
 
