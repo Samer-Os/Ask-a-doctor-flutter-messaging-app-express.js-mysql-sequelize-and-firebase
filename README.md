@@ -13,54 +13,55 @@ https://www.youtube.com/watch?v=Ik5Llpn8Mok&t=246s
 
 # Screenshots
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_login.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_login.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_signup.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_signup.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/wrong_password_message_dialog.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/wrong%20password%20message%20dialog.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/account_not_available_message_dialog.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/account%20not%20available%20message%20dialog.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_home_page.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client%20home%20page.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_drawer_screen.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client%20drawer%20screen.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_drawer_screen_(without_profil_photo).jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client%20drawer%20screen%20(without%20profil%20photo).jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_informations.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client%20informations.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_inbox.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client%20inbox.jpeg)
 
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/search%20doctor%20by%20name.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/search_doctor_by_name.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/search%20doctor%20by%20major's%20name.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/search_doctor_by_major's_name.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor%20profil%20info.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_profil_info.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor%20profil%20comment%20section.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_profil_comment_section.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor%20profil%20comment%20section%202.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_profil_comment_section_2.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/chat%20room%20example.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/chat_room_example.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/chat%20room%20example%202.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/chat_room_example_2.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/chat%20room%20example%203.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/chat_room_example_3.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor%20login.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_login.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor%20home%20page%20(inbox).jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_home_page_(inbox).jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor%20home%20page%202.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_home_page_2.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor%20drawer%20screen.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_drawer_screen.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor%20informations.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_informations.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doctor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor%20comment%20section.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/doctor_comment_section.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/notification.jpeg)
 
-![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/client_home_page.jpeg)
+![screenshots\client_signup.jpeg](https://github.com/Samer-Os/Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase/blob/main/screenshots/major's%20fields.jpeg)
 
 
 
