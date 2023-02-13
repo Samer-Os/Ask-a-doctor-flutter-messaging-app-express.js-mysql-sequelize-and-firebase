@@ -11,4 +11,13 @@ In the link below you will find a youtube video to take a look at the app and ex
 https://www.youtube.com/watch?v=Ik5Llpn8Mok&t=246s
 
 
+# Screenshots
+
+![client login](C:\Users\OUSSAMA\Desktop\Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase\screenshots\client_login.jpeg)
+
+![client signup](C:\Users\OUSSAMA\Desktop\Ask-a-doktor-flutter-messaging-app-express.js-mysql-sequelize-and-firebase\screenshots\client_signup.jpeg)
+
+
+
+
 
